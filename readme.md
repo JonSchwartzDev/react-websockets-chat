@@ -1,4 +1,4 @@
-This project folder contains the code for both the server and client.
+This project folder contains the code for both the server and client. There's about 40 lines of js in the server, and 100 in the client.
 
 Both of them use the w3cwebsockets library.
 
