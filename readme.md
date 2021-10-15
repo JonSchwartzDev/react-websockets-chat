@@ -6,15 +6,17 @@ The client app uses React with class components, and React components from the A
 
 To use the project:
 
-Go to the webSocketServer folder
-npm install
-npm run start
-keep the server running
+<ol>
+  <li>Go to the webSocketServer folder</li>
+  <li>npm install</li>
+  <li>npm run start</li>
+  <li>keep the server running</li>
+</ol>
 
-Go to the webSocketClient folder
-npm install
-npm run start
+<ol>
+  <li>Go to the webSocketClient folder</li>
+  <li>npm install</li>
+  <li>npm run start</li>
+</ol>
 
-visit http://localhost:1992 to check out the project
-
-Open the URL in multiple tabs, log in and send and see messages flowing between them as you send them in each
+Open http://localhost:1992 in multiple tabs, log in and send and see messages flowing between the tabs as you send them in each
